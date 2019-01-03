@@ -1,0 +1,27 @@
+.scenter {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	top: 50%;
+    left: 50%;
+	/* margin-top: -128px;
+    margin-left: -100px; */
+}
+
+.displayError {
+	display: block;
+	font-size: small;
+	color: red;
+}
+
+.center {
+	width: 570px;
+	margin: 0 auto;
+}
+
+.center h1, button {
+	display: inline-block;
+}
+
+.center button {
+	margin: 10px;
+}
